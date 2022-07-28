@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Black Marketeer of Mammon - SA Removal for AA -->
+<list maintainEnchantment="true">
+  <!-- 1st Carol -->
+  <item id="1">
+    <ingredient id="9834" count="1" />
+    <ingredient id="9835" count="75" />
+    <production id="9838" count="10" />
+  </item>
+  <!-- 1st Carol -->
+  <item id="2">
+    <ingredient id="9834" count="1" />
+    <ingredient id="9836" count="100" />
+    <production id="9839" count="10" />
+  </item>
+  <!-- 1st Carol -->
+  <item id="3">
+    <ingredient id="9834" count="1" />
+    <ingredient id="9837" count="125" />
+    <production id="9840" count="10" />
+  </item>
+
+</list>

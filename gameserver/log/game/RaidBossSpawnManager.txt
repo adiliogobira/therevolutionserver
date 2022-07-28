@@ -1,0 +1,16 @@
+[22.06.18 13:22:56] '---': RaidBossSpawnManager: Updated Zaken's Butcher Krantz respawn time to 1655631359456
+[22.06.18 13:29:46] '---': RaidBossSpawnManager: Updated Atraiban respawn time to 1655696755220
+[22.06.21 10:37:06] '---': RaidBossSpawnManager: Updated Master Anays respawn time to 1655862414166
+[22.07.06 15:02:22] '---': RaidBossSpawnManager: Updated Bloody Priest Rudelto respawn time to 1657216474662
+[22.07.06 23:49:15] '---': RaidBossSpawnManager: Updated Shilen's Priest Hisilrome respawn time to 1657261679104
+[22.07.06 23:52:32] '---': RaidBossSpawnManager: Updated Palibati Queen Themis respawn time to 1657214069431
+[22.07.13 23:53:07] '---': RaidBossSpawnManager: Updated Antharas Priest Cloe respawn time to 1657829135597
+[22.07.16 0:36:29] '---': RaidBossSpawnManager: Updated Hestia, Guardian Deity of the Hot Springs respawn time to 1658066679928
+[22.07.16 0:37:36] '---': RaidBossSpawnManager: Updated Discarded Guardian respawn time to 1658034652861
+[22.07.16 0:38:05] '---': RaidBossSpawnManager: Updated Zombie Lord Farakelsus respawn time to 1658010585216
+[22.07.16 0:38:38] '---': RaidBossSpawnManager: Updated Madness Beast respawn time to 1658042269604
+[22.07.16 0:39:10] '---': RaidBossSpawnManager: Updated Serpent Demon Bifrons respawn time to 1658020165314
+[22.07.16 0:39:43] '---': RaidBossSpawnManager: Updated Sukar Wererat Chief respawn time to 1657994877476
+[22.07.16 0:41:25] '---': RaidBossSpawnManager: Updated Apepi respawn time to 1658022986400
+[22.07.16 0:42:17] '---': RaidBossSpawnManager: Updated Last Titan Utenus respawn time to 1658061398728
+[22.07.16 0:44:32] '---': RaidBossSpawnManager: Updated Fafurion's Herald Lokness respawn time to 1658047992712

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Black Marketeer of Mammon - SA Removal for AA -->
+<list maintainEnchantment="true">
+  <item id="1">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7860" count="1" />
+  </item>
+  <item id="2">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7861" count="1" />
+  </item>
+  <item id="3">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7862" count="1" />
+  </item>
+  <item id="4">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7863" count="1" />
+  </item>
+  <item id="5">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7864" count="1" />
+  </item>
+  <item id="6">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7865" count="1" />
+  </item>
+  <item id="7">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7866" count="1" />
+  </item>
+  <item id="8">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7867" count="1" />
+  </item>
+  <item id="9">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7868" count="1" />
+  </item>
+  <item id="10">
+    <ingredient id="6392" count="3000" />
+    <ingredient id="6393" count="3000" />
+    <production id="7869" count="1" />
+  </item>
+
+</list>

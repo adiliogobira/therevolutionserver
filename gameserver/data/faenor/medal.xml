@@ -1,0 +1,33 @@
+<Event ID="Adena" Active="26 dec 2008-26 Dec 2029">
+<Droplist>
+
+<AllDrop Items="9834" Count="1" Chance="8%" />
+<AllDrop Items="9835" Count="1" Chance="9%" />
+<AllDrop Items="9836" Count="1" Chance="5%" />
+<AllDrop Items="9837" Count="1" Chance="4%" />
+<AllDrop Items="9838" Count="1" Chance="2%" />
+<AllDrop Items="9839" Count="1" Chance="2%" />
+<AllDrop Items="9840" Count="1" Chance="2%" />
+
+</Droplist>
+
+<Message Type="OnJoin" Msg="Jute itens Sagrados para seu SET's" />
+
+<EventEnd>
+
+<Take From="AllPlayers">
+
+<Item ItemID="6393"></Item>
+<Item ItemID="9834"></Item>
+<Item ItemID="9835"></Item>
+<Item ItemID="9836"></Item>
+<Item ItemID="9837"></Item>
+<Item ItemID="9838"></Item>
+<Item ItemID="9839"></Item>
+<Item ItemID="9840"></Item>
+
+</Take>
+
+</EventEnd>
+
+</Event>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Newbie exchange -->
+<list maintainEnchantment="true">
+	<item id="1">
+		<ingredient id="80" count="1"/>
+		<ingredient id="2500" count="1"/>
+		<ingredient id="2134" count="10"/>
+		<ingredient id="1462" count="100"/>
+		<production id="6580" count="1"/>
+	</item>  
+</list>

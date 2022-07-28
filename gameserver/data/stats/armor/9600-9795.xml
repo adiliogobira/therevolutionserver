@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id='9600' name="Angels Nightmare helm">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9601' name="Angels Nightmare boots for heavy">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9602' name="Angels Nightmare boots for light">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9603' name="Angels Nightmare boots for robe">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9604' name="Angels Nightmare gloves of heavy">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9605' name="Angels Nightmare gloves of light">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9606' name="Angels Nightmare gloves of robe">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9607' name="Angels Nightmare heavy armor">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+
+            <mul order="0x30" stat="pAtk" val="1.04"/>
+            <!-- P. Atk. +4% -->
+            <mul order="0x40" stat="sleepVuln" val="0.3"/>
+            <add order="0x40" stat="reflectDam" val="1.05"/>
+            <!-- Hold Resistance +70% -->
+            <add order="0x40" stat="CON" val="2"/>
+            <!-- CON +2 -->
+            <sub order="0x40" stat="DEX" val="2"/>
+            <!-- DEX -2 -->
+        </for>
+	</item>
+	<item id='9608' name="Angels Nightmare light armor">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+	<item id='9795' name="Angels Nightmare robe">
+		<for>
+			<add val='293' order='0x10' stat='pDef'/>
+			<enchant val='0' order='0x0C' stat='pDef'/>
+		</for>
+	</item>
+</list>

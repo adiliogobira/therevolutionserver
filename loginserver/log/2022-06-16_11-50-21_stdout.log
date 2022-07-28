@@ -1,0 +1,2 @@
+Erro: Não foi possível localizar nem carregar a classe principal com.l2jfrozen.loginserver.L2LoginServer
+Causada por: java.lang.ClassNotFoundException: com.l2jfrozen.loginserver.L2LoginServer

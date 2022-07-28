@@ -1,0 +1,6 @@
+Error on: C:\Users\Adilio Gobira\Documents\ServidorInterlude\Frozen 1132\gameserver\data\scripts\custom\9999_NPCBuffer\__init__.py.error.LOGGER
+Line: -1 - Column: -1
+
+Traceback (innermost last):
+  (no code object) at line 0
+SyntaxError: ('invalid syntax', ('__init__.py', 36, 41, '\t\t\t\t\tst.getPlayer().useMagic(SkillTable.getInstance().getInfo(9951,5),False,False)'))

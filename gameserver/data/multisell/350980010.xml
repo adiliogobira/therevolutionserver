@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- L2JMultisell Maker # By NalDinHuU -->
+
+<list>
+<item id="1">
+<ingredient id="6373" count="1"/>
+<ingredient id="6374" count="1"/>
+<ingredient id="9834" count="1000"/>
+<ingredient id="9838" count="10000"/>
+<ingredient id="9839" count="10000"/>
+<ingredient id="9840" count="10000"/>
+<production id="9816" count="1" enchant="0"/>
+</item>
+<item id="2">
+<ingredient id="9834" count="1000"/>
+<ingredient id="9838" count="10000"/>
+<ingredient id="9839" count="10000"/>
+<ingredient id="9840" count="10000"/>
+<ingredient id="6375" count="1"/>
+<production id="9817" count="1" enchant="0"/>
+</item>
+<item id="3">
+<ingredient id="9834" count="1000"/>
+<ingredient id="9838" count="10000"/>
+<ingredient id="9839" count="10000"/>
+<ingredient id="9840" count="10000"/>
+<ingredient id="6376" count="1"/>
+<production id="9818" count="1" enchant="0"/>
+</item>
+<item id="4">
+<ingredient id="9834" count="1000"/>
+<ingredient id="9838" count="10000"/>
+<ingredient id="9839" count="10000"/>
+<ingredient id="9840" count="10000"/>
+<ingredient id="6378" count="1"/>
+<production id="9819" count="1" enchant="0"/>
+</item>
+
+</list>

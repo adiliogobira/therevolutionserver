@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<item id='9816' name="Epic Dark Knight Armor Heavy">
+<for>
+    <add val='400' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9817' name="Epic Dark Knight Gloves Heavy">
+    <for>
+        <add val='65' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9818' name="Epic Dark Knight Boots Heavy">
+    <for>
+        <add val='70' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9819' name="Epic Dark Knight Helmet Heavy">
+    <for>
+        <add val='95' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9820' name="Epic Dark Knight Armor Light">
+<for>
+    <add val='325' order='0x10' stat='pDef'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9821' name="Epic Dark Knight Gloves Light">
+    <for>
+        <add val='55' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9822' name="Epic Dark Knight Boots Light">
+    <for>
+        <add val='55' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9823' name="Epic Dark Knight Helmet Light">
+    <for>
+        <add val='85' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9824' name="Epic Dark Knight Armor Tunic">
+<for>
+    <add val='180' order='0x10' stat='pDef'/>
+    <add val='1200' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9825' name="Epic Dark Knight Armor Stockings">
+<for>
+    <add val='100' order='0x10' stat='pDef'/>
+    <add val='400' order='0x40' stat='maxMp'/>
+    <enchant val='0' order='0x0C' stat='pDef'/>
+</for>
+</item>
+<item id='9826' name="Epic Dark Knight Gloves Robe">
+    <for>
+        <add val='40' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9827' name="Epic Dark Knight Boots Robe">
+    <for>
+        <add val='40' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+<item id='9828' name="Epic Dark Knight Hat Robe">
+    <for>
+        <add val='70' order='0x10' stat='pDef'/>
+        <enchant val='0' order='0x0C' stat='pDef'/>
+    </for>
+</item>
+</list>

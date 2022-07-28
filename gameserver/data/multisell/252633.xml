@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Seven Signs - Black Marketeer of Mammon - SA Removal for AA -->
+<list maintainEnchantment="true">
+  <item id="1">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50017" count="1" />
+  </item>
+  <item id="2">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50018" count="1" />
+  </item>
+  <item id="3">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50019" count="1" />
+  </item>
+  <item id="4">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50020" count="1" />
+  </item>
+  <item id="5">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50021" count="1" />
+  </item>
+  <item id="6">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50022" count="1" />
+  </item>
+  <item id="7">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50023" count="1" />
+  </item>
+  <item id="8">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50024" count="1" />
+  </item>
+  <item id="9">
+    <ingredient id="151515" count="100" />
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50025" count="1" />
+  </item>
+  <item id="10">
+    <ingredient id="151515" count="100" /> 
+    <ingredient id="6392" count="10000" />
+    <ingredient id="6393" count="10000" />
+    <ingredient id="6673" count="1" />
+    <production id="50026" count="1" />
+  </item>
+
+</list>
