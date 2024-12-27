@@ -18,3 +18,5 @@
 [22.07.16 0:41:25] '---': RaidBossSpawnManager: Updated Apepi respawn time to 1658022986400
 [22.07.16 0:42:17] '---': RaidBossSpawnManager: Updated Last Titan Utenus respawn time to 1658061398728
 [22.07.16 0:44:32] '---': RaidBossSpawnManager: Updated Fafurion's Herald Lokness respawn time to 1658047992712
+[24.12.22 14:54:16] '---': Created new character : Noobie01 for account: adilio
+[24.12.26 22:08:54] '---': Created new character : Roobie for account: adilio1

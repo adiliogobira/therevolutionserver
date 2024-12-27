@@ -3,66 +3,11 @@
 <list maintainEnchantment="true">
 
 	<item id="1">
-		<ingredient id="2418" count="1"/>
-		<ingredient id="9834" count="1"/>
+		<ingredient id="57" count="500000000"/>
+		<ingredient id="9834" count="1000"/>
 		<ingredient id="9838" count="10000"/>
-		<production id="9600" count="1"/>
-	</item> 
-
-	<item id="2">
-		<ingredient id="5783" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9601" count="1"/>
-	</item> 
-	<item id="3">
-		<ingredient id="5784" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9602" count="1"/>
-	</item> 
-	<item id="4">
-		<ingredient id="5785" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9603" count="1"/>
-	</item> 
-
-	<item id="5">
-		<ingredient id="5771" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9604" count="1"/>
-	</item> 
-	<item id="6">
-		<ingredient id="5772" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9605" count="1"/>
-	</item> 
-	<item id="7">
-		<ingredient id="5773" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9606" count="1"/>
-	</item> 
-	
-	<item id="8">
-		<ingredient id="374" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9607" count="1"/>
-	</item> 
-	<item id="9">
-		<ingredient id="2394" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9608" count="1"/>
-	</item>
-	<item id="10">
-		<ingredient id="2408" count="1"/>
-		<ingredient id="9834" count="1"/>
-		<ingredient id="9838" count="10000"/>
-		<production id="9795" count="1"/>
+		<ingredient id="9839" count="8000"/>
+		<ingredient id="9840" count="5000"/>
+		<production id="9966" count="1"/>
 	</item> 
 </list>

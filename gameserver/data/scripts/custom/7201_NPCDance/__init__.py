@@ -32,18 +32,19 @@ class Quest (JQuest) :
 			st.takeItems(ADENA_ID,0)
 			st.getPlayer().setTarget(st.getPlayer())
 
-
 			#Dance of Warrior
 			if event == "80":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(271,1).getEffects(st.getPlayer(),st.getPlayer())
-				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(271,1),False,False)
-				return "8.htm"		
+				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(271, 1), False, False)
+				return "8.htm"
 				st.setState(COMPLETED)
 
 			#Dance of Inspiration
 			if event == "81":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(272,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(272,1),False,False)
 				return "8.htm"		
@@ -52,6 +53,7 @@ class Quest (JQuest) :
 			#Dance of Mystic
 			if event == "82":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(273,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(273,1),False,False)
 				return "8.htm"		
@@ -60,6 +62,7 @@ class Quest (JQuest) :
 			#Dance of Fire
 			if event == "83":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(274,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(274,1),False,False)
 				return "8.htm"		
@@ -68,6 +71,7 @@ class Quest (JQuest) :
 			#Dance of Fury
 			if event == "84":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(275,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(275,1),False,False)
 				return "8.htm"		
@@ -76,6 +80,7 @@ class Quest (JQuest) :
 			#Dance of Concentration
 			if event == "85":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(276,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(276,1),False,False)
 				return "8.htm"		
@@ -84,6 +89,7 @@ class Quest (JQuest) :
 			#Dance of Light
 			if event == "86":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(277,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(277,1),False,False)
 				return "8.htm"		
@@ -92,6 +98,7 @@ class Quest (JQuest) :
 			#Aqua Guard
 			if event == "87":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(307,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(307,1),False,False)
 				return "8.htm"		
@@ -100,6 +107,7 @@ class Quest (JQuest) :
 			#Earth Guard
 			if event == "88":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(309,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(309,1),False,False)
 				return "8.htm"		
@@ -108,6 +116,7 @@ class Quest (JQuest) :
 			#Dance of Vampire
 			if event == "89":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(310,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(310,1),False,False)
 				return "8.htm"		
@@ -116,6 +125,7 @@ class Quest (JQuest) :
 			#Dance of Protection
 			if event == "90":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(311,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(311,1),False,False)
 				return "8.htm"		
@@ -124,6 +134,7 @@ class Quest (JQuest) :
 			#Siren's Dance 
 			if event == "91":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(365,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(365,1),False,False)
 				return "8.htm"		
@@ -132,46 +143,11 @@ class Quest (JQuest) :
 			#Dance of Shadow
 			if event == "92":
 				st.takeItems(ADENA_ID,0)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
 				SkillTable.getInstance().getInfo(366,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(366,1),False,False)
 				return "8.htm"		
 				st.setState(COMPLETED)
-
-            #Noblesse Blessing
-			if event == "111":
-				st.takeItems(ADENA_ID,0)
-				SkillTable.getInstance().getInfo(1323,1).getEffects(st.getPlayer(),st.getPlayer())
-				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(1323,1),False,False)
-				return "1.htm"
-				st.setState(COMPLETED)	
-
-            #Restore CP
-			if event == "112":
-				st.takeItems(ADENA_ID,0)
-				st.getPlayer().restoreCP()
-				return "1.htm"
-				st.setState(State.COMPLETED)	
-				
-            #Restore HP
-			if event == "113":
-				st.takeItems(ADENA_ID,0)
-				st.getPlayer().restoreHP()
-				return "1.htm"
-				st.setState(State.COMPLETED)
-
-           	#Restore MP
-			if event == "114":
-				st.takeItems(ADENA_ID,0)
-				return "1.htm"
-				st.setState(State.COMPLETED)
-
-                        #Restore CP/HP/MP
-			if event == "115":
-				st.takeItems(ADENA_ID,0)
-				st.getPlayer().restoreCP()
-				st.getPlayer().restoreHP()
-				return "1.htm"
-				st.setState(State.COMPLETED)
 				
 			if htmltext != event:
 				st.setState(COMPLETED)
