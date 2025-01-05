@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- CREATED BY -->
+<!-- MAGAVER -->
+
+<list>
+<item id="1">
+<ingredient id="57" count="50000000"/>
+<production id="9901" count="1" enchant="0"/>
+</item>
+
+<item id="2">
+<ingredient id="57" count="50000000"/>
+<production id="9902" count="1" enchant="0"/>
+</item>
+
+<item id="3">
+<ingredient id="9901" count="1"/>
+<ingredient id="9820" count="2000"/>
+<ingredient id="9821" count="2000"/>
+<ingredient id="9822" count="2000"/>
+<production id="9903" count="1" enchant="0"/>
+</item>
+
+<item id="4">
+<ingredient id="9820" count="2000"/>
+<ingredient id="9821" count="2000"/>
+<ingredient id="9822" count="2000"/>
+<ingredient id="9902" count="2000"/>
+<production id="9904" count="1" enchant="0"/>
+</item>
+
+<item id="5">
+<ingredient id="9820" count="4000"/>
+<ingredient id="9821" count="4000"/>
+<ingredient id="9822" count="4000"/>
+<production id="9920" count="1" enchant="0"/>
+</item>
+
+<item id="6">
+<ingredient id="9820" count="4000"/>
+<ingredient id="9821" count="4000"/>
+<ingredient id="9822" count="4000"/>
+<production id="9921" count="1" enchant="0"/>
+</item>
+
+
+</list>
+<!-- CREATED BY -->
+<!-- MAGAVER -->

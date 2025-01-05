@@ -162,10 +162,9 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
 	<!-- add absorb hp SA -->
-	<!-- We have SA on SQL -->
-	<!-- <add val='8' order='0x40' stat='absorbDam'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+	<add val='8' order='0x40' stat='absorbDam'/>
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
   </for>
 </item>
 <item id='6585' name="basalt_battlehammer_health">
@@ -249,9 +248,8 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- Enhances damage to target during PvP -->
-    <!-- We have SA on SQL -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
   </for>
 </item>
 <item id='6591' name="angel_slayer__hp_drain">
@@ -264,10 +262,9 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- add absorbHP SA -->
-    <!-- We have SA on SQL -->
-	<!-- <add val='8' order='0x40' stat='absorbDam'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+	<add val='8' order='0x40' stat='absorbDam'/>
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
   </for>
 </item>
 <item id='6592' name="angel_slayer__haste">
@@ -368,10 +365,9 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- add SA : absorbdmg - vampiric effect dmg -->
-    <!-- We have SA on SQL -->
-    <!-- <add val='8' order='0x40' stat='absorbDam'/> -->	
-    <!-- <mul val='1.05' order='0x30' stat='pvpPhysDmg'/> -->
-    <!-- <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> -->
+    <add val='8' order='0x40' stat='absorbDam'/>	
+    <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
+    <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/> 
   </for>
 </item>
 <item id='6599' name="saint_spear__health">

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Shadow Weapon Exchange C&D Grade, based on BiTi and kerberos_20 contribs -->
+<list>
+  <!-- Naga Storm -->
+  <item id="1">
+    <ingredient id="57" count="45000000"/>
+    <production id="365" count="1"/>
+    <production id="388" count="1"/>
+    <production id="512" count="1"/>
+    <production id="5777" count="1"/>
+    <production id="5765" count="1"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="2">
+    <ingredient id="57" count="45000000"/>
+    <production id="2395" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5787" count="1"/>  
+    <production id="5775" count="1"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="3">
+    <ingredient id="57" count="45000000"/>
+    <production id="2409" count="1"/>
+    <production id="2419" count="1"/>
+    <production id="5776" count="1"/>  
+    <production id="5788" count="1"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="4">
+    <ingredient id="57" count="45000000"/>
+    <production id="374" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5771" count="1"/>  
+    <production id="5783" count="1"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="5">
+    <ingredient id="57" count="45000000"/>
+    <production id="2408" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5773" count="1"/>
+    <production id="5785" count="1"/>  
+  </item>
+  <!-- Naga Storm -->
+  <item id="6">
+    <ingredient id="57" count="45000000"/>
+    <production id="2394" count="1"/>
+    <production id="2418" count="1"/>
+    <production id="5772" count="1"/>
+    <production id="5784" count="1"/>  
+  </item>
+</list>  

@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+
+  <!-- Sword of Miracles -->
+  <item id="1">
+    <ingredient id="57" count="75000000"/>
+    <production id="151" count="1"/>
+  </item>
+
+  <!-- Dragon Slayer -->
+  <item id="4">
+    <ingredient id="57" count="75000000"/>
+    <production id="81" count="1"/>
+  </item>
+
+  <!-- Soul Separator -->
+  <item id="7">
+    <ingredient id="57" count="75000000"/>
+    <production id="236" count="1"/>
+  </item>
+
+  <!-- Elysian -->
+  <item id="10">
+    <ingredient id="57" count="75000000"/>
+    <production id="164" count="1"/>
+  </item>
+
+  <!-- Carnage Bow -->
+  <item id="13">
+    <ingredient id="57" count="75000000"/>
+    <production id="288" count="1"/>
+  </item>
+
+  <!-- Dragon Grinder -->
+  <item id="17">
+    <ingredient id="57" count="75000000"/>
+    <production id="270" count="1"/>
+  </item>
+
+  <!-- Tallum Glaive -->
+  <item id="20">
+    <ingredient id="57" count="75000000"/>
+    <production id="305" count="1"/>
+  </item>
+
+  <!-- Branch of The Mother Tree -->
+  <item id="23">
+    <ingredient id="57" count="75000000"/>
+    <production id="213" count="1"/>
+  </item>
+
+  <!-- Dark Legion's Edge -->
+  <item id="26">
+    <ingredient id="57" count="75000000"/>
+    <production id="2500" count="1"/>
+  </item>
+
+  <!-- Behemoth's Tuning Fork -->
+  <item id="29">
+    <ingredient id="57" count="75000000"/>
+    <production id="8681" count="1"/>
+  </item>
+
+  <!-- Daimon Crystal -->
+  <item id="32">
+    <ingredient id="57" count="75000000"/>
+    <production id="8688" count="1"/>
+  </item>
+
+  <!-- Cabrio's Hand -->
+  <item id="35">
+    <ingredient id="57" count="75000000"/>
+    <production id="8687" count="1"/>
+  </item>
+
+  <!-- Shyeed's Bow -->
+  <item id="38">
+    <ingredient id="57" count="75000000"/>
+    <production id="8684" count="1"/>
+  </item>
+
+  <!-- Sword of Ipos -->
+  <item id="41">
+    <ingredient id="57" count="75000000"/>
+    <production id="8679" count="1"/>
+  </item>
+
+  <!-- Sobekk's Hurricane -->
+  <item id="44">
+    <ingredient id="57" count="75000000"/>
+    <production id="8685" count="1"/>
+  </item>
+
+  <!-- Tiphon's Spear -->
+  <item id="47">
+    <ingredient id="57" count="75000000"/>
+    <production id="8683" count="1"/>
+  </item>
+
+  <!-- Themis' Tongue -->
+  <item id="50">
+    <ingredient id="57" count="75000000"/>
+    <production id="8686" count="1"/>
+  </item>
+
+  <!-- Naga Storm -->
+  <item id="53">
+    <ingredient id="57" count="75000000"/>
+    <production id="8682" count="1"/>
+  </item>
+
+  <!-- Sirra's Blade -->
+  <item id="56">
+    <ingredient id="57" count="75000000"/>
+    <production id="8678" count="1"/>
+  </item>
+
+</list>

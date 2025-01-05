@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- L2JMultisell Maker # By NalDinHuU -->
+
+
+<list>
+<item id="01">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9884" count="1" enchant="0"/>
+</item>
+<item id="02">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9885" count="1" enchant="0"/>
+</item>
+<item id="03">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9886" count="1" enchant="0"/>
+</item>
+<item id="04">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9887" count="1" enchant="0"/>
+</item>
+<item id="04">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9888" count="1" enchant="0"/>
+</item>
+<item id="05">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9889" count="1" enchant="0"/>
+</item>
+<item id="06">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9890" count="1" enchant="0"/>
+</item>
+<item id="07">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9891" count="1" enchant="0"/>
+</item>
+<item id="08">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9891" count="1" enchant="0"/>
+</item>
+<item id="09">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9892" count="1" enchant="0"/>
+</item>
+<item id="10">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9893" count="1" enchant="0"/>
+</item>
+<item id="11">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9894" count="1" enchant="0"/>
+</item>
+<item id="12">
+<ingredient id="9820" count="30000"/>
+<ingredient id="9821" count="30000"/>
+<ingredient id="9822" count="30000"/>
+<production id="9895" count="1" enchant="0"/>
+</item>
+
+</list>

@@ -11,13 +11,13 @@ set DateT=%date%
 REM Configurate database connection loginserver
 set lsuser=root
 set lspass=
-set lsdb=l2jdb
+set lsdb=l2jfrozen
 set lshost=localhost
 
 REM Configurate database connection Gameserver
 set gsuser=root
 set gspass=
-set gsdb=l2jdb
+set gsdb=l2jfrozen
 set gshost=localhost
 REM ############################################
 

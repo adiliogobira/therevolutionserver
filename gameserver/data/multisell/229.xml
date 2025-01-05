@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- CREATED -->
+<!-- BY SMALLZ -->
+
+<!-- MOIRAI JEWELS -->
+
+<list>
+  
+  <item id="1">
+    <ingredient id="3470" count="2"/>
+	<ingredient id="9350" count="4"/>
+	<production id="9331" count="1"/>
+  </item>
+  
+  <item id="2">
+    <ingredient id="3470" count="2"/>
+	<ingredient id="9350" count="4"/>
+	<production id="9332" count="1"/>
+  </item>
+  
+  <item id="3">
+    <ingredient id="3470" count="2"/>
+	<ingredient id="9350" count="4"/>
+	<production id="9333" count="1"/>
+  </item>
+
+</list>
+<!-- CREATED -->
+<!-- BY SMALLZ -->

@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Trader Galladucci (Luxury Shop) Weapons -->
+<list>
+<!-- Barakiel Axe  -->
+  <item id="1">
+    <ingredient id="3489" count="400"/>
+    <production id="8680" count="1"/>
+  </item>
+<!-- Barakiel Axe - Health  -->
+  <item id="2">
+    <ingredient id="3489" count="500"/>
+    <production id="8794" count="1"/>
+  </item>
+<!-- Barakiel Axe - Haste  -->
+  <item id="3">
+    <ingredient id="3489" count="500"/>
+    <production id="8795" count="1"/>
+  </item>
+<!-- Barakiel Axe - Focus  -->
+  <item id="4">
+    <ingredient id="3489" count="500"/>
+    <production id="8796" count="1"/>
+  </item>
+<!--  Behemoth's Tuning Fork  -->
+  <item id="5">
+    <ingredient id="3489" count="400"/>
+    <production id="8681" count="1"/>
+  </item>
+<!--   -->
+  <item id="6">
+    <ingredient id="3489" count="500"/>
+    <production id="8797" count="1"/>
+  </item>
+<!--   -->
+  <item id="7">
+    <ingredient id="3489" count="500"/>
+    <production id="8798" count="1"/>
+  </item>
+<!--   -->
+  <item id="8">
+    <ingredient id="3489" count="500"/>
+    <production id="8799" count="1"/>
+  </item>
+<!--   -->
+  <item id="9">
+    <ingredient id="3489" count="400"/>
+    <production id="8683" count="1"/>
+  </item>
+<!--   -->
+  <item id="10">
+    <ingredient id="3489" count="500"/>
+    <production id="8803" count="1"/>
+  </item>
+<!--   -->
+  <item id="11">
+    <ingredient id="3489" count="500"/>
+    <production id="8804" count="1"/>
+  </item>
+<!--   -->
+  <item id="12">
+    <ingredient id="3489" count="500"/>
+    <production id="8805" count="1"/>
+  </item>
+<!--   -->
+  <item id="13">
+    <ingredient id="3489" count="500"/>
+    <production id="8806" count="1"/>
+  </item>
+<!--   -->
+  <item id="14">
+    <ingredient id="3489" count="400"/>
+    <production id="8685" count="1"/>
+  </item>
+<!--   -->
+  <item id="15">
+    <ingredient id="3489" count="500"/>
+    <production id="8809" count="1"/>
+  </item>
+<!--   -->
+  <item id="16">
+    <ingredient id="3489" count="500"/>
+    <production id="8810" count="1"/>
+  </item>
+<!--   -->
+  <item id="17">
+    <ingredient id="3489" count="500"/>
+    <production id="8811" count="1"/>
+  </item>
+<!--   -->
+  <item id="18">
+    <ingredient id="3489" count="400"/>
+    <production id="8687" count="1"/>
+  </item>
+<!--   -->
+  <item id="19">
+    <ingredient id="3489" count="500"/>
+    <production id="8815" count="1"/>
+  </item>
+<!--   -->
+  <item id="20">
+    <ingredient id="3489" count="500"/>
+    <production id="8816" count="1"/>
+  </item>
+<!--   -->
+  <item id="21">
+    <ingredient id="3489" count="500"/>
+    <production id="8817" count="1"/>
+  </item>
+<!--   -->
+  <item id="22">
+    <ingredient id="3489" count="400"/>
+    <production id="8688" count="1"/>
+  </item>
+<!--   -->
+  <item id="23">
+    <ingredient id="3489" count="500"/>
+    <production id="8818" count="1"/>
+  </item>
+<!--   -->
+  <item id="24">
+    <ingredient id="3489" count="500"/>
+    <production id="8819" count="1"/>
+  </item>
+<!--   -->
+  <item id="25">
+    <ingredient id="3489" count="500"/>
+    <production id="8820" count="1"/>
+  </item>
+<!--   -->
+  <item id="26">
+    <ingredient id="3489" count="750"/>
+    <production id="6365" count="1"/>
+  </item>
+<!--   -->
+  <item id="27">
+    <ingredient id="3489" count="1000"/>
+    <production id="6584" count="1"/>
+  </item>
+<!--   -->
+  <item id="28">
+    <ingredient id="3489" count="1000"/>
+    <production id="6585" count="1"/>
+  </item>
+<!--   -->
+  <item id="29">
+    <ingredient id="3489" count="1000"/>
+    <production id="6586" count="1"/>
+  </item>
+<!--   -->
+  <item id="30">
+    <ingredient id="3489" count="500"/>
+    <production id="6366" count="1"/>
+  </item>
+<!--   -->
+  <item id="31">
+    <ingredient id="3489" count="500"/>
+    <production id="6587" count="1"/>
+  </item>
+<!--   -->
+  <item id="32">
+    <ingredient id="3489" count="500"/>
+    <production id="6588" count="1"/>
+  </item>
+<!--   -->
+  <item id="33">
+    <ingredient id="3489" count="500"/>
+    <production id="6589" count="1"/>
+  </item>
+<!--   -->
+  <item id="34">
+    <ingredient id="3489" count="750"/>
+    <production id="6579" count="1"/>
+  </item>
+<!--   -->
+  <item id="35">
+    <ingredient id="3489" count="1000"/>
+    <production id="6608" count="1"/>
+  </item>
+<!--   -->
+  <item id="36">
+    <ingredient id="3489" count="1000"/>
+    <production id="6609" count="1"/>
+  </item>
+<!--   -->
+  <item id="37">
+    <ingredient id="3489" count="1000"/>
+    <production id="6610" count="1"/>
+  </item>
+<!--   -->
+  <item id="38">
+    <ingredient id="3489" count="500"/>
+    <production id="6370" count="1"/>
+  </item>
+<!--   -->
+  <item id="39">
+    <ingredient id="3489" count="500"/>
+    <production id="6599" count="1"/>
+  </item>
+<!--   -->
+  <item id="40">
+    <ingredient id="3489" count="1000"/>
+    <production id="6600" count="1"/>
+  </item>
+<!--   -->
+  <item id="41">
+    <ingredient id="3489" count="1000"/>
+    <production id="6601" count="1"/>
+  </item>
+</list>

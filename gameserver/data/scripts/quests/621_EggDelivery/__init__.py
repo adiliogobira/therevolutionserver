@@ -1,4 +1,4 @@
-#Quest reworked like L2OFF by OnePaTuBHuK special for L2JFrozen. All rights reserved.
+# Made by disKret
 import sys
 from com.l2jfrozen.gameserver.model.quest import State
 from com.l2jfrozen.gameserver.model.quest import QuestState
@@ -13,7 +13,6 @@ NAFF = 31544
 CROCUS = 31545
 KUBER = 31546
 BEORIN = 31547
-VALENTINE = 31584
 
 #QUEST ITEMS
 BOILED_EGGS = 7195
@@ -24,7 +23,7 @@ ADENA = 57
 HASTE_POTION = 734
 
 #Chance to get an S-grade random recipe instead of just adena and haste potion
-RPCHANCE=20
+RPCHANCE=10
 #Change this value to 1 if you wish 100% recipes, default 70%
 ALT_RP100=0
 
@@ -46,7 +45,7 @@ class Quest (JQuest) :
        st.playSound("ItemSound.quest_accept")
      else:
        htmltext=default
-   elif event == "31543-1.htm" :
+   if event == "31543-1.htm" :
      if st.getQuestItemsCount(BOILED_EGGS):
        if cond==1:
          st.takeItems(BOILED_EGGS,1)
@@ -57,7 +56,7 @@ class Quest (JQuest) :
      else:
        htmltext="LMFAO!"
        st.exitQuest(1)
-   elif event == "31544-1.htm" :
+   if event == "31544-1.htm" :
      if st.getQuestItemsCount(BOILED_EGGS):
        if cond==2:
          st.takeItems(BOILED_EGGS,1)
@@ -68,7 +67,7 @@ class Quest (JQuest) :
      else:
        htmltext="LMFAO!"
        st.exitQuest(1)
-   elif event == "31545-1.htm" :
+   if event == "31545-1.htm" :
      if st.getQuestItemsCount(BOILED_EGGS):
        if cond==3:
          st.takeItems(BOILED_EGGS,1)
@@ -79,7 +78,7 @@ class Quest (JQuest) :
      else:
        htmltext="LMFAO!"
        st.exitQuest(1)
-   elif event == "31546-1.htm" :
+   if event == "31546-1.htm" :
      if st.getQuestItemsCount(BOILED_EGGS):
        if cond==4:
          st.takeItems(BOILED_EGGS,1)
@@ -89,8 +88,8 @@ class Quest (JQuest) :
          htmltext=default
      else:
        htmltext="LMFAO!"
-       st.exitQuest(1)
-   elif event == "31547-1.htm" :
+       st.extiQuest(1)
+   if event == "31547-1.htm" :
      if st.getQuestItemsCount(BOILED_EGGS):
        if cond==5:
          st.takeItems(BOILED_EGGS,1)
@@ -100,17 +99,15 @@ class Quest (JQuest) :
          htmltext=default
      else:
        htmltext="LMFAO!"
-       st.exitQuest(1)
-   elif event == "31521-3.htm" :
-     st.set("cond","7")
-   elif event == "31584-2.htm" :
+       st.extiQuest(1)
+   if event == "31521-3.htm" :
      if st.getQuestItemsCount(FEE_OF_EGGS) == 5:
-        st.takeItems(FEE_OF_EGGS,5)        
+        st.takeItems(FEE_OF_EGGS,5)
         if st.getRandom(100) < RPCHANCE :
           st.giveItems(range(6847+ALT_RP100,6853,2)[st.getRandom(3)],1)
-        else: 
+        else:
           st.giveItems(ADENA,18800)
-          st.giveItems(HASTE_POTION,1)     
+          st.giveItems(HASTE_POTION,1)
         st.playSound("ItemSound.quest_finish")
         st.exitQuest(1)
      else:
@@ -127,7 +124,7 @@ class Quest (JQuest) :
        st.set("cond","0")
      cond = st.getInt("cond")
      if npcId == 31521 and cond == 0 :
-       if player.getLevel() >= 68 :
+       if player.getLevel() >= 68 and player.getLevel() <= 73 :
          htmltext = "31521-0.htm"
        else :
          st.exitQuest(1)
@@ -144,10 +141,6 @@ class Quest (JQuest) :
          htmltext = "31547-0.htm"
        elif npcId == 31521 and cond == 6 and st.getQuestItemsCount(FEE_OF_EGGS) == 5 :
          htmltext = "31521-2.htm"
-       elif npcId == 31521 and cond == 7 and st.getQuestItemsCount(FEE_OF_EGGS) == 5 :
-         htmltext = "31521-4.htm"
-       elif npcId == 31584 and cond == 7 and st.getQuestItemsCount(FEE_OF_EGGS) == 5 :
-         htmltext = "31584-1.htm"
    return htmltext
 
 QUEST       = Quest(621,qn,"Egg Delivery")
@@ -159,7 +152,7 @@ QUEST.addStartNpc(31521)
 
 QUEST.addTalkId(31521)
 
-for i in range(31543,31548)+[31521,31584]:
+for i in range(31543,31548):
     QUEST.addTalkId(i)
 
 STARTED.addQuestDrop(31521,BOILED_EGGS,1)

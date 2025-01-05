@@ -228,9 +228,8 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- SA: Conversion -->
-    <!-- We have SA on XML -->
-    <!-- <mul val='0.6' order='0x30' stat='maxHp'/> -->
-    <!-- <mul val='1.6' order='0x30' stat='maxMp'/> -->
+    <mul val='0.6' order='0x30' stat='maxHp'/>
+    <mul val='1.6' order='0x30' stat='maxMp'/>
   </for>
 </item>
 <item id='8120' name="dwarven_hammer_health">
@@ -479,9 +478,8 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- SA: Conversion -->
-    <!-- We have SA on XML -->
-    <!-- <mul val='0.6' order='0x30' stat='maxHp'/> -->
-    <!-- <mul val='1.6' order='0x30' stat='maxMp'/> -->
+    <mul val='0.6' order='0x30' stat='maxHp'/>
+    <mul val='1.6' order='0x30' stat='maxMp'/>
   </for>
 </item>
 <item id='8139' name="ecliptic_axe_magic_power">
@@ -579,9 +577,8 @@
     <enchant val='0' order='0x0C' stat='pAtk'/>
     <enchant val='0' order='0x0C' stat='mAtk'/>
     <!-- SA: Conversion -->
-    <!-- We have SA on XML -->
-    <!-- <mul val='0.6' order='0x30' stat='maxHp'/> -->
-    <!-- <mul val='1.6' order='0x30' stat='maxMp'/> -->
+    <mul val='0.6' order='0x30' stat='maxHp'/>
+    <mul val='1.6' order='0x30' stat='maxMp'/>
   </for>
 </item>
 <item id='8147' name="spiritual_eye_mana_up">

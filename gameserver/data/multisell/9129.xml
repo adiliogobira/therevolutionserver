@@ -102,7 +102,7 @@
 
   <!-- Blessed Spiritshot: A-Grade -->
   <item id="17">
-    <ingredient id="57" count="1700000"/>
+    <ingredient id="57" count="1000000"/>
     <production id="3951" count="10000"/>
   </item>
 
@@ -175,7 +175,7 @@
   <!-- Crystal: S-Grade -->
   <item id="29">
     <ingredient id="57" count="13000"/>
-    <production id="1462" count="1"/>
+    <production id="1461" count="1"/>
   </item>
 
   <!-- Wooden Arrow -->

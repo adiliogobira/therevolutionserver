@@ -60,22 +60,22 @@ FREE_BUFFS = False
 TIME_OUT = False           
 TIME_OUT_TIME = 1                    
 MIN_LEVEL = 20                           
-BUFF_REMOVE_PRICE = 100000                 
-HEAL_PRICE = 1000000                      
-BUFF_PRICE = 100000                     
-RESIST_PRICE = 100000                    
-SONG_PRICE = 100000                      
-DANCE_PRICE = 100000                      
-CHANT_PRICE = 100000                      
-OTHERS_PRICE = 1000000                     
-SPECIAL_PRICE = 1000000                   
-CUBIC_PRICE = 1000000                    
-BUFF_SET_PRICE = 10000000                 
-SCHEME_BUFF_PRICE = 10000000              
+BUFF_REMOVE_PRICE = 1                 
+HEAL_PRICE = 1                      
+BUFF_PRICE = 1                     
+RESIST_PRICE = 1                    
+SONG_PRICE = 1                      
+DANCE_PRICE = 1                      
+CHANT_PRICE = 1                      
+OTHERS_PRICE = 1                     
+SPECIAL_PRICE = 1                   
+CUBIC_PRICE = 1                    
+BUFF_SET_PRICE = 1                 
+SCHEME_BUFF_PRICE = 1              
 SCHEMES_PER_PLAYER = 4                   
-CONSUMABLE_ID = 57                       
-MAX_SCHEME_BUFFS = 16
-MAX_SCHEME_DANCES = 8
+CONSUMABLE_ID = 9846                       
+MAX_SCHEME_BUFFS = 24
+MAX_SCHEME_DANCES = 16
 
 def rebuildMainHtml(st) :
 	MAIN_HTML_MESSAGE = "<html><head><title>"+TITLE_NAME+"</title></head><body><center><img src=\"L2UI_CH3.herotower_deco\" width=256 height=32><br>"; MESSAGE = ""
@@ -853,7 +853,8 @@ class Quest (JQuest) :
 						if st.player.getPet() != None : heal(getpetbuff)
 						else: return showText(st,"Info","Voce nao pode usar as opcoes do animal.<br>Chame o seu animal de estimacao primeiro!","False","Return","main")
 					else : heal(getpetbuff)				
-					st.takeItems(CONSUMABLE_ID,HEAL_PRICE)					
+					st.takeItems(CONSUMABLE_ID,HEAL_PRICE)
+					st.giveItems(CONSUMABLE_ID,BUFF_SET_PRICE)
 					if TIME_OUT == True: addTimeout(1,TIME_OUT_TIME/2,600)
 					return rebuildMainHtml(st)
 			return rebuildMainHtml(st)
@@ -873,6 +874,7 @@ class Quest (JQuest) :
                             					cubic.stopAction() 
                             					st.player.delCubic(cubic.getId())   
 					st.takeItems(CONSUMABLE_ID,BUFF_REMOVE_PRICE)
+					st.giveItems(CONSUMABLE_ID,BUFF_SET_PRICE)
 					if TIME_OUT == True: addTimeout(2,TIME_OUT_TIME/2,600)
 					return rebuildMainHtml(st)
 			return rebuildMainHtml(st)
@@ -942,6 +944,7 @@ class Quest (JQuest) :
 						i += 1
 					heal(getpetbuff)
 					st.takeItems(CONSUMABLE_ID,SCHEME_BUFF_PRICE)
+					st.giveItems(CONSUMABLE_ID,BUFF_SET_PRICE)
 					if TIME_OUT == True: addTimeout(3,TIME_OUT_TIME,600)
 					return rebuildMainHtml(st)
 			else : return rebuildMainHtml(st)
@@ -982,6 +985,7 @@ class Quest (JQuest) :
 						if st.player.getPet() != None : SkillTable.getInstance().getInfo(int(eventParam1),int(eventParam2)).getEffects(st.getPlayer().getPet(),st.getPlayer().getPet())
 						else: return showText(st,"Info","Voce nao pode usar as opcoes do animal de estimacao.<br>Chame o seu animal de estimacao primeiro!","False","Return","main")
 				st.takeItems(CONSUMABLE_ID,cost)
+				st.giveItems(CONSUMABLE_ID,BUFF_SET_PRICE)
 				if TIME_OUT == True: addTimeout(3,TIME_OUT_TIME/10,600)
 				return buildHtml(eventParam3)
 			else : return buildHtml(eventParam3)
@@ -1033,6 +1037,7 @@ class Quest (JQuest) :
 					else: return showText(st,"Info","Voce nao pode usar as opcoes do animal de estimacao.<br>Chame o seu animal de estimacao primeiro!","False","Return","main")
 				heal(getpetbuff)
 				st.takeItems(CONSUMABLE_ID,BUFF_SET_PRICE)
+				st.giveItems(CONSUMABLE_ID,BUFF_SET_PRICE)
 				if TIME_OUT == True: addTimeout(3,TIME_OUT_TIME,600)
 				return rebuildMainHtml(st)
 			else : return rebuildMainHtml(st)

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Trader Galladucci (Luxury Shop) Weapons -->
+<list>
+<!-- Barakiel Axe  -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="2548" count="1"/>
+  </item>
+<!-- Barakiel Axe  -->
+  <item id="1">
+    <ingredient id="57" count="6000000"/>
+    <production id="2573" count="1"/>
+  </item>
+<!-- Barakiel Axe  -->
+  <item id="1">
+    <ingredient id="57" count="15000000"/>
+    <production id="2626" count="1"/>
+  </item>
+<!-- Barakiel Axe  -->
+  <item id="1">
+    <ingredient id="57" count="45000000"/>
+    <production id="5704" count="1"/>
+  </item>
+</list>

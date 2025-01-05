@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- CREATED -->
+<!-- BY SMALLZ -->
+
+<list>
+  <item id="1">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6657" count="1"/>
+  </item>
+
+  <item id="2">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="8191" count="1"/>
+  </item>
+
+  <item id="3">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6656" count="1"/>
+  </item>
+
+  <item id="4">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6659" count="1"/>
+  </item>
+
+  <item id="5">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6661" count="1"/>
+  </item>
+
+  <item id="6">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6658" count="1"/>
+  </item>
+
+  <item id="7">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6660" count="1"/>
+  </item>
+
+  <item id="8">
+    <ingredient id="9820" count="5000"/>
+    <ingredient id="9821" count="5000"/>
+    <ingredient id="9822" count="5000"/>
+    <production id="6662" count="1"/>
+  </item>
+
+</list>
+<!-- CREATED -->
+<!-- BY SMALLZ -->

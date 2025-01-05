@@ -23,8 +23,6 @@
     <!-- Enhances damage to target during PvP -->
     <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
     <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-    <!-- SA: Haste -->
-    <mul val='1.06' order='0x30' stat='pAtkSpd'/>
   </for>
 </item>
 <item id='8789' name="Sirra\'s Blade - Health">
@@ -67,8 +65,6 @@
     <!-- Enhances damage to target during PvP -->
     <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
     <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-    <!-- SA: Focus -->
-    <add val='61' order='0x40' stat='rCrit'/>
   </for>
 </item>
 <item id='8792' name="Sword of Ipos - Haste">
@@ -83,8 +79,6 @@
     <!-- Enhances damage to target during PvP -->
     <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
     <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-    <!-- SA: Haste -->
-    <mul val='1.06' order='0x30' stat='pAtkSpd'/>
   </for>
 </item>
 <item id='8793' name="Sword of Ipos - Health">
@@ -143,8 +137,6 @@
     <!-- Enhances damage to target during PvP -->
     <mul val='1.05' order='0x30' stat='pvpPhysDmg'/>
     <mul val='1.05' order='0x30' stat='pvpMagicalDmg'/>
-    <!-- SA: Focus -->
-    <add val='61' order='0x40' stat='rCrit'/>
   </for>
 </item>
 <item id='8797' name="Behemoth\'s Tuning Fork - Focus">

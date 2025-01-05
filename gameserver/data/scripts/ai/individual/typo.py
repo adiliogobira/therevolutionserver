@@ -1,2 +1,1 @@
-#hehehehe
-print "INFO  Start loading Individual AI"
+print "start loading Individual AI"

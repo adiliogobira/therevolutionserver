@@ -237,7 +237,7 @@
 		<spawn X='40046' Y='-46493' Z='-332'/>
 		<spawn X='38528' Y='-48175' Z='897'/>
 	</zone>
-	<zone id='11034' type='Town' shape="NPoly" minZ="0" maxZ="0">
+	<zone id='11034' type='Town' shape="NPoly" minZ="-3800" maxZ="-3400">
 		<stat name='name' val='Heine'/>
 		<stat name='townId' val='15'/>
 		<stat name='redirectTownId' val='16'/>

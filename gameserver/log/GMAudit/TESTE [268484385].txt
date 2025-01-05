@@ -1,8 +1,0 @@
-[06/07/2022 13:41:38] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_admin], Params: [] 
-[06/07/2022 13:44:57] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_admin], Params: [] 
-[06/07/2022 13:44:59] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_move_to], Params: [] 
-[06/07/2022 13:45:13] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_help], Params: [ tele/locations/c5.htm] 
-[06/07/2022 13:45:17] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_move_to], Params: [ 123743 -75032 -2902] 
-[06/07/2022 13:45:47] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_gmspeed 4], Params: [] 
-[06/07/2022 13:46:19] --> GM: TESTE [268484385], Target: [no-target], Action: [admin_invis], Params: [] 
-[06/07/2022 13:55:04] --> GM: TESTE [268484385], Target: [Judge of Light], Action: [admin_instant_move], Params: [] 

@@ -1,6 +1,5 @@
 @echo off
 title L2J-Frozen: Game Server Console
-
 :start
 echo Starting L2J-Frozen Core Game Server.
 echo Official website : http://www.l2jfrozen.com
@@ -11,10 +10,10 @@ echo.
 
 REM -------------------------------------
 REM Default parameters for a basic server.
-java -Dfile.encoding=UTF8 -Xms1024m -Xmx1024m -cp ./lib/*;./lib/uMad/*;l2jfrozen-core.jar com.l2jfrozen.gameserver.GameServer
+java -Dfile.encoding=UTF8 -Xmx1024m -Xms512m -Xmn256m -XX:PermSize=128m -XX:SurvivorRatio=8 -Xnoclassgc -XX:+AggressiveOpts -XX:+UseSerialGC -cp ./lib/*;l2jfrozen-core.jar com.l2jfrozen.gameserver.GameServer
 REM
 REM If you have a big server and lots of memory, you could experiment for example with
-REM java -server -Xmx1536m -Xms2048m -Xmn512m -XX:PermSize=256m -XX:SurvivorRatio=8 -Xnoclassgc -XX:+AggressiveOpts
+REM java -server -Xmx1536m -Xms1024m -Xmn512m -XX:PermSize=256m -XX:SurvivorRatio=8 -Xnoclassgc -XX:+AggressiveOpts
 REM -------------------------------------
 
 if ERRORLEVEL 7 goto telldown
@@ -55,7 +54,7 @@ echo Send you bug to : http://www.l2jfrozen.com
 echo .
 :error
 echo.
-echo Server terminated abnormally
+echo Server terminated abnormaly
 echo Send you bug to : http://www.l2jfrozen.com
 echo.
 :end

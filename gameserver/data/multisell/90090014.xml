@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Shadow Weapon Exchange C&D Grade, based on BiTi and kerberos_20 contribs -->
+<list>
+  <!-- Naga Storm -->
+  <item id="1">
+    <ingredient id="57" count="1000000"/>
+    <production id="728" count="1000"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="2">
+    <ingredient id="57" count="1000000"/>
+    <production id="1539" count="1000"/>
+  </item>
+  <!-- Naga Storm -->
+  <item id="3">
+    <ingredient id="57" count="1000000"/>
+    <production id="5592" count="1000"/>
+  </item>
+</list>  

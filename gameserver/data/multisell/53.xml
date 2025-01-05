@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- CREATED -->
+<!-- BY SMALLZ -->
+
+<!-- S-Grade Weapons -->
+
+<list>
+
+  <!-- Heaven's Divider [Haste] -->
+  <item id="1">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9801" count="1"/>
+  </item>
+
+  <!-- Heaven's Divider [Focus] -->
+  <item id="2">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9802" count="1"/>
+  </item>
+
+  <!-- Heaven's Divider [Health] -->
+  <item id="3">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9803" count="1"/>
+  </item>
+  
+  <!-- Forgotten Blade [Haste] -->
+  <item id="4">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9805" count="1"/>
+  </item>
+
+  <!-- Forgotten Blade [Health] -->
+  <item id="5">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9806" count="1"/>
+  </item>
+
+  <!-- Forgotten Blade [Focus] -->
+  <item id="6">
+   <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9809" count="1"/>
+  </item>
+
+  <!-- Arcana Mace [Acumen] -->
+  <item id="7">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9810" count="1"/>
+  </item>
+
+  <!-- Arcana Mace [HP Regeneration] -->
+  <item id="8">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9813" count="1"/>
+  </item>
+  
+  <!-- Arcana Mace [Acumen] -->
+  <item id="9">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9814" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer [HP Drain] -->
+  <item id="10">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9817" count="1"/>
+  </item>
+  
+  <!-- Basalt Battlehammer [Health] -->
+  <item id="11">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9818" count="1"/>
+  </item>
+
+  <!-- Basalt Battlehammer [HP Regeneration] -->
+  <item id="12">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9823" count="1"/>
+  </item>
+
+  <!-- Imperial Staff [Empower] -->
+  <item id="13">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9856" count="1"/>
+  </item>
+
+  <!-- Imperial Staff [MP Regeneration] -->
+  <item id="14">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9857" count="1"/>
+  </item>
+
+  <!-- Imperial Staff [Magic Hold] -->
+  <item id="15">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9825" count="1"/>
+  </item>
+
+  <!-- Angel Slayer [Crt. Damage] -->
+  <item id="16">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9826" count="1"/>
+  </item>
+
+  <!-- Angel Slayer [Haste] -->
+  <item id="17">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9827" count="1"/>
+  </item>
+
+  <!-- Angel Slayer [HP Drain] -->
+  <item id="18">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9829" count="1"/>
+  </item>
+
+  <!-- Shining Bow [Cheap Shot] -->
+  <item id="19">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9830" count="1"/>
+  </item>
+
+  <!-- Shining Bow [Focus] -->
+  <item id="20">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9831" count="1"/>
+  </item>
+
+  <!-- Shining Bow [Crt. Slow] -->
+  <item id="21">
+   <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9833" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe [HP Regeneration] -->
+  <item id="22">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9834" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe [Health] -->
+  <item id="23">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9835" count="1"/>
+  </item>
+
+  <!-- Dragon Hunter Axe [HP Drain] -->
+  <item id="24">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9837" count="1"/>
+  </item>
+
+  <!-- Saint Spear [Health] -->
+  <item id="25">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9838" count="1"/>
+  </item>
+
+  <!-- Saint Spear [Guidance] -->
+  <item id="26">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9839" count="1"/>
+  </item>
+
+  <!-- Saint Spear [Haste] -->
+  <item id="27">
+  <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9841" count="1"/>
+  </item>
+
+  <!-- Demon Splinter [Focus] -->
+  <item id="28">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9842" count="1"/>
+  </item>
+
+  <!-- Demon Splinter [Health] -->
+  <item id="29">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9843" count="1"/>
+  </item>
+
+  <!-- Demon Splinter [Crt. Stun] -->
+  <item id="30">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9844" count="1"/>
+  </item>
+
+  <!-- Tallum Blade*Dark Legion's Edge -->
+  <item id="31">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9847" count="1"/>
+  </item>
+
+  <!-- Draconic Bow [Cheap Shot] -->
+  <item id="32">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9848" count="1"/>
+  </item>
+
+  <!-- Draconic Bow [Focus] -->
+  <item id="33">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9851" count="1"/>
+  </item>
+
+  <!-- Draconic Bow [Critical Slow] -->
+  <item id="34">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9852" count="1"/>
+  </item>
+  
+<!-- Draconic Bow [Critical Slow] -->
+  <item id="34">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9853" count="1"/>
+  </item>
+  
+  <!-- Draconic Bow [Critical Slow] -->
+  <item id="34">
+    <ingredient id="9820" count="300000"/>
+    <ingredient id="9821" count="300000"/>
+    <ingredient id="9822" count="300000"/>
+    <production id="9854" count="1"/>
+  </item>
+  
+</list>
+<!-- CREATED -->
+<!-- BY SMALLZ -->

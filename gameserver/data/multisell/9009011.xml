@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Shadow Weapon Exchange C&D Grade, based on BiTi and kerberos_20 contribs -->
+<list>
+  <!-- Naga Storm -->
+  <item id="1">
+    <ingredient id="8684" count="400"/>
+    <production id="8682" count="1"/>
+  </item>
+  <!-- Naga Storm - Focus -->
+  <item id="2">
+    <ingredient id="3489" count="500"/>
+    <production id="8806" count="1"/>
+  </item>
+  <!-- Naga Storm - Focus -->
+  <item id="3">
+    <ingredient id="3489" count="500"/>
+    <production id="8807" count="1"/>
+  </item>
+  <!-- Naga Storm - Back blow -->
+  <item id="4">
+    <ingredient id="3489" count="500"/>
+    <production id="8808" count="1"/>
+  </item>
+  <!-- Sirra's Blade -->
+  <item id="5">
+    <ingredient id="3489" count="750"/>
+    <production id="7575" count="1"/>
+  </item>
+  <!-- Sirra's Blade - Haste -->
+  <item id="6">
+    <ingredient id="3489" count="1000"/>
+    <production id="7576" count="1"/>
+  </item>
+  <!-- Sirra's Blade - Health -->
+  <item id="7">
+    <ingredient id="3489" count="1000"/>
+    <production id="7577" count="1"/>
+  </item>
+  <!-- Sirra's Blade - Critical Poison -->
+  <item id="8">
+    <ingredient id="3489" count="1000"/>
+    <production id="7578" count="1"/>
+  </item> 
+  <!-- Sirra's Blade - Critical Poison -->
+  <item id="9">
+    <ingredient id="3489" count="750"/>
+    <production id="6368" count="1"/>
+  </item> 
+  <!-- Sirra's Blade - Critical Poison -->
+  <item id="10">
+    <ingredient id="3489" count="1000"/>
+    <production id="6593" count="1"/>
+  </item> 
+  <!-- Sirra's Blade - Critical Poison -->
+  <item id="11">
+    <ingredient id="3489" count="1000"/>
+    <production id="6594" count="1"/>
+  </item> 
+  <!-- Sirra's Blade - Critical Poison -->
+  <item id="12">
+    <ingredient id="3489" count="1000"/>
+    <production id="6595" count="1"/>
+  </item> 
+</list>  
