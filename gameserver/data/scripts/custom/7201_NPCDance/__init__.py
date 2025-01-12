@@ -36,8 +36,13 @@ class Quest (JQuest) :
 			if event == "80":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(271,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(271, 1), False, False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"
 				st.setState(COMPLETED)
 
@@ -45,8 +50,13 @@ class Quest (JQuest) :
 			if event == "81":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(272,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(272,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -54,8 +64,13 @@ class Quest (JQuest) :
 			if event == "82":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(273,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(273,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -63,8 +78,13 @@ class Quest (JQuest) :
 			if event == "83":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(274,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(274,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -72,8 +92,13 @@ class Quest (JQuest) :
 			if event == "84":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(275,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(275,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -81,8 +106,13 @@ class Quest (JQuest) :
 			if event == "85":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(276,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(276,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -90,8 +120,13 @@ class Quest (JQuest) :
 			if event == "86":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(277,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(277,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -99,8 +134,13 @@ class Quest (JQuest) :
 			if event == "87":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(307,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(307,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -108,8 +148,13 @@ class Quest (JQuest) :
 			if event == "88":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(309,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(309,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -117,8 +162,13 @@ class Quest (JQuest) :
 			if event == "89":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(310,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(310,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -126,8 +176,13 @@ class Quest (JQuest) :
 			if event == "90":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(311,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(311,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -135,8 +190,13 @@ class Quest (JQuest) :
 			if event == "91":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(365,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(365,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 
@@ -144,8 +204,13 @@ class Quest (JQuest) :
 			if event == "92":
 				st.takeItems(ADENA_ID,0)
 				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				SkillTable.getInstance().getInfo(366,1).getEffects(st.getPlayer(),st.getPlayer())
 				st.getPlayer().useMagic(SkillTable.getInstance().getInfo(366,1),False,False)
+				st.getPlayer().getStatus().setCurrentMp(st.getPlayer().getStat().getMaxMp())
+				st.getPlayer().getStatus().setCurrentHp(st.getPlayer().getStat().getMaxHp())
+				st.getPlayer().getStatus().setCurrentCp(st.getPlayer().getStat().getMaxCp())
 				return "8.htm"		
 				st.setState(COMPLETED)
 				
